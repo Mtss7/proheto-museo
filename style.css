@@ -1,0 +1,217 @@
+body{
+    margin: 0;
+    border: 0;
+    padding: 0;
+    background-color: rgb(237, 254, 255);
+
+}
+
+.cabecalho{
+    background-color: rgb(0, 151, 206);
+    border-bottom: 1.5px;
+    border-bottom: solid;
+    border-color: rgb(190, 211, 250);
+    padding-top: 15px;
+    padding-left: 25px;
+    padding-bottom: 15px;
+    display: flex;
+    justify-content: space-between;
+    font-family: 'Blinker', sans-serif;
+}
+
+.visite, .programacao, .institucional {
+    margin-left: 30px;
+    margin-right: 15px;
+}
+
+a{
+    text-decoration: none;
+    color: rgba(0, 255, 234, 0.768);
+    font-weight: bold;
+    transition: 0.5s;
+}
+
+a:hover{
+    color: rgba(0, 0, 0, 0.993);
+}
+
+.botoes{
+    display: flex;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    margin-left: 100px;
+    padding-left: 50px;
+    font-size: 25px;
+}
+
+.botoes:last-child{
+    margin-right: 130px;
+}
+
+.a2{
+    text-decoration: none;
+    color: rgba(255, 0, 0, 0.875);
+    font-weight: bold;
+    transition: 0.5s;
+
+}
+
+.a2:hover{
+    color: rgb(0, 0, 0);
+
+}
+
+.logo{
+    margin-left: 45px;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    width: 200px;
+
+}
+
+.principal{
+    width: 85%;
+    margin-right: auto;
+    margin-left: auto;
+    margin-top: 20px;
+    text-align: center;
+    border-radius: 25px;
+    display: flex;
+}
+
+.foto{
+    width: 100%;
+    object-fit: cover;
+}
+
+
+.texto{
+    margin-top: 15px;
+    font-size: 20px;
+    text-align: start;
+
+}
+.bilheteria{
+    margin-top: 0;
+    font-family: 'Blinker', sans-serif;
+
+}
+
+.fotobi{
+   width: 90%;
+}
+
+.rodape{
+    background-color: rgb(0, 151, 206);
+    border-top: 1.5px;
+    border-top: solid;
+    border-color: rgb(190, 211, 250);
+    height: 50%;
+
+    
+}
+
+.imgs1{
+    text-align: center;
+    margin-top: 30px;
+
+}
+
+.imgs2{
+    display: flex;
+    margin-top: 10px;
+    margin-left: 30px;
+    margin-right: 30px;
+    margin-bottom: 30px;
+    justify-content: space-between;
+}
+
+.fotoini{
+    text-align: center;
+}
+
+.avibi{
+    font-family: 'Blinker', sans-serif;
+    margin-left: 100px;
+    margin-top: 50px;
+}
+
+.acesso{
+    font-size: 30px;
+    font-family: 'Blinker', sans-serif;
+    margin-left: 100px;
+}
+
+.tudotext {
+    margin-left: 100px;
+    font-size: 25px;
+    margin-right: 100px;
+}
+
+.tiini{
+    font-weight: bold;
+    font-size: 50px;
+    font-family: 'Blinker', sans-serif;
+    text-align: center;
+
+}
+
+.tiini1{
+    font-weight: bold;
+    font-size: 50px;
+    font-family: 'Blinker', sans-serif;
+    margin-left: 120px;
+    padding-left: 10px;
+
+
+}
+u {
+    color: black;
+}
+
+.bloco{
+    border-radius: 25px;
+    background-color: rgb(173, 255, 255);
+    padding: 10px;
+    width: 90%;
+    margin-bottom: 30px;
+}
+
+.text1{
+    margin-top: 20px;
+    margin-left: 120px;
+    font-size: 35px;
+
+}
+
+.mapa{
+    margin-left: 100px;
+    margin-bottom: 15px;
+
+
+}
+
+.tudo_mapa{
+    display: flex;
+    font-size: 30px;
+
+}
+
+.a1 {
+    margin-left: 40px;
+}
+
+.b1{
+    font-size: 60px;
+    text-align: center;
+    font-weight: bold;
+    font-family: 'Blinker', sans-serif;
+}
+
+.mensagem{
+    font-size: 30px;
+    font-family: 'Blinker', sans-serif;
+    color: rgb(0, 4, 73);
+    text-align: center;
+
+}
